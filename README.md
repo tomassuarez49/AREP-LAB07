@@ -126,5 +126,6 @@ https://github.com/user-attachments/assets/9093eb0e-512d-4273-a1f1-f6d3fe748bcc
 
 📌 **Si tuviéramos un dominio, podríamos usar Let's Encrypt para obtener un certificado SSL válido.**  
 
-🚀 **Autoría de Tomas Suarez ** 🔥
+
+🚀 **Autoría de Tomas Suarez** 🔥
 
